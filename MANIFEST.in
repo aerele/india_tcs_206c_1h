@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include india_tcs_206c_1h *.css
+recursive-include india_tcs_206c_1h *.csv
+recursive-include india_tcs_206c_1h *.html
+recursive-include india_tcs_206c_1h *.ico
+recursive-include india_tcs_206c_1h *.js
+recursive-include india_tcs_206c_1h *.json
+recursive-include india_tcs_206c_1h *.md
+recursive-include india_tcs_206c_1h *.png
+recursive-include india_tcs_206c_1h *.py
+recursive-include india_tcs_206c_1h *.svg
+recursive-include india_tcs_206c_1h *.txt
+recursive-exclude india_tcs_206c_1h *.pyc
